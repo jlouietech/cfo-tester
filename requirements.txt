@@ -1,6 +1,6 @@
 openai==0.27.0
 streamlit==1.18.0
 supabase==2.13.0
-langchain==0.3.20  # Choose one version only
+langchain_community==0.3.19
 python-dotenv==0.21.0
 altair==4.2.0
